@@ -1,0 +1,16 @@
+C:\Users\Иван\source\repos\OOP_LAB_02\OOP_LAB_02\bin\Debug\OOP_LAB_02.exe.config
+C:\Users\Иван\source\repos\OOP_LAB_02\OOP_LAB_02\bin\Debug\OOP_LAB_02.exe
+C:\Users\Иван\source\repos\OOP_LAB_02\OOP_LAB_02\bin\Debug\OOP_LAB_02.pdb
+C:\Users\Иван\source\repos\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.exe
+C:\Users\Иван\source\repos\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.pdb
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\bin\Debug\OOP_LAB_02.exe.config
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\bin\Debug\OOP_LAB_02.exe
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\bin\Debug\OOP_LAB_02.pdb
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.csprojAssemblyReference.cache
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.csproj.CoreCompileInputs.cache
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.exe
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.pdb
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\bin\Debug\System.ValueTuple.dll
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\bin\Debug\System.ValueTuple.xml
+D:\Ковчег\OOP_LAB_02\OOP_LAB_02\obj\Debug\OOP_LAB_02.csproj.CopyComplete
